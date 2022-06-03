@@ -1,6 +1,9 @@
+Thumbs.db*
+.DS_Store
 HELP.md
 .gradle
 build/
+target/
 
 ### STS ###
 .apt_generated
@@ -17,12 +20,6 @@ build/
 *.iml
 *.ipr
 out/
-
-### Android Studio ###
-local.properties
-captures/
-.externalNativeBuild
-.cxx
 
 ### NetBeans ###
 /nbproject/private/
@@ -43,5 +40,5 @@ captures/
 *.tar.gz
 *.rar
 
-### Gradle ###
-!gradle/wrapper/gradle-wrapper.jar
+### Node ###
+node_modules/
